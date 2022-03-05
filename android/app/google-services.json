@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056947005442",
+    "project_id": "durrat-al-arous",
+    "storage_bucket": "durrat-al-arous.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056947005442:android:46d43b955e84a7b9609f1b",
+        "android_client_info": {
+          "package_name": "com.sghareebo.durrat_al_arous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056947005442-fs3jr5sgc53gtvare5gqri50ud8pjn5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW-FLnswoJyoQq6_t_O4zRfAFAleesNt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056947005442-fs3jr5sgc53gtvare5gqri50ud8pjn5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

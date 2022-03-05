@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splash_color" />
+
+    <!-- You can insert your own image assets here -->
+<!--    <item>-->
+
+<!--        <bitmap-->
+<!--            android:gravity="center"-->
+<!--            android:src="@drawable/splash_shape2" />-->
+<!--    </item>-->
+
+<!--    <item>-->
+<!--        <bitmap-->
+<!--            android:gravity="top|left"-->
+<!--            android:src="@drawable/splash1" />-->
+<!--    </item>-->
+
+<!--    <item>-->
+<!--        <bitmap-->
+<!--            android:gravity="bottom|right"-->
+<!--            android:src="@drawable/splash3" />-->
+<!--    </item>-->
+<!--    <item>-->
+<!--        <bitmap-->
+<!--            android:gravity="center"-->
+<!--            android:src="@drawable/splash2" />-->
+<!--    </item>-->
+
+    <item
+        android:width="400dp"
+        android:height="400dp"
+        android:drawable="@drawable/splash2"
+        android:gravity="center" />
+
+    <item
+        android:width="400dp"
+        android:height="220dp"
+        android:drawable="@drawable/splash1"
+        android:gravity="top|left" />
+
+    <item
+        android:width="400dp"
+        android:height="250dp"
+        android:drawable="@drawable/splash3"
+        android:gravity="bottom|right" />
+
+    <item
+        android:width="400dp"
+        android:height="150dp"
+        android:drawable="@drawable/logo"
+        android:gravity="center" />
+
+</layer-list>
