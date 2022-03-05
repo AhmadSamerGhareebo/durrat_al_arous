@@ -1,0 +1,9 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/.idea/
+/__MACOSX/
+/fonts/
+/images/
+/lib/
+/test/
