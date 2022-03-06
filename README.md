@@ -2,7 +2,7 @@
 
 Durrat Al Arous
 
-* Flutter Application for Durrat Al Arous resort in jeddah Saudi Arabia.
+* Flutter Application for Durrat Al Arous resort in Jeddah, Saudi Arabia.
 * Its main purpose is to book permission to enter the resort.
 * It consists of 2 applications one for the owner and one for the visitor.
 * It includes previewing of apartments details and images, live chat with the
